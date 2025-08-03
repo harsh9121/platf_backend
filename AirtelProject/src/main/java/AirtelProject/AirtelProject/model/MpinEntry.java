@@ -1,4 +1,4 @@
-package AirtelProject.AirtelProject;
+package AirtelProject.AirtelProject.model;
 
 import jakarta.persistence.*;
 import lombok.*;
